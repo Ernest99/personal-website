@@ -17,11 +17,10 @@ const About = () => {
                         <img src={profileImage} alt="my dp"/>
                     </div>
                     <div className="details">
-                        <p>Experienced Frontend Developer with a demonstrated history of working in the
-                            information technology and services industry. Skilled in User Experience (UX),
-                            Responsive Web Design, Graphic Design, Web Design, and HTML. Strong engineering
-                            professional with a Bachelor's degree focused in Information Technology at
-                            BlueCrest University College.</p>
+                        <p>An experienced front-end developer with a demonstrated history of working in information technology services
+and coding for the web. I am skilled in User Experience (UX), Responsive Web Design, Graphic Design, Web Design,
+and HTML. Strong engineering professional with a Bachelor's degree focused on information technology at
+BlueCrest University College. I am a good team player and a problem solver.</p>
                         <a href="tel: 0265429443" className='about-btn'>Let's Talk</a>
                         <div className="card_container">
                             <div className="card">
